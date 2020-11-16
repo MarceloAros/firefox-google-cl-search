@@ -1,2 +1,2 @@
-# firefox-google-cl-search
+# google-cl-search
 XPI-style OpenSearch plugins for google.cl
